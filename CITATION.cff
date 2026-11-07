@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this software or the derived maps, please cite the paper below."
+title: "Quantifying the NTN Opportunity Gap: processing pipeline and derived railway deficiency maps"
+abstract: "Processing pipeline and per-cell railway deficiency maps for a cross-generation (2G/4G/5G) multi-operator measurement study of the Great Britain railway network."
+type: software
+license: MIT
+doi: 10.5281/zenodo.24044888
+authors:
+  - family-names: Veisi
+    given-names: Farzad
+    affiliation: "CEDRIC Lab, CNAM, Paris, France"
+  - family-names: Choda
+    given-names: David
+    affiliation: "Network Rail, London, UK"
+  - family-names: Secci
+    given-names: Stefano
+    affiliation: "CEDRIC Lab, CNAM, Paris, France"
+preferred-citation:
+  type: conference-paper
+  title: "Quantifying the NTN Opportunity Gap: A Cross-Generation Railway Measurement Study"
+  authors:
+    - family-names: Veisi
+      given-names: Farzad
+    - family-names: Choda
+      given-names: David
+    - family-names: Secci
+      given-names: Stefano
+  collection-title: "Proceedings of the IEEE Consumer Communications and Networking Conference (CCNC)"
+  year: 2027

@@ -1,0 +1,29 @@
+{
+  "title": "Quantifying the NTN Opportunity Gap: processing pipeline and derived railway deficiency maps",
+  "upload_type": "software",
+  "description": "<p>Processing pipeline and derived railway deficiency maps accompanying the paper <em>Quantifying the NTN Opportunity Gap: A Cross-Generation Railway Measurement Study</em> (IEEE CCNC 2027).</p><p>The pipeline classifies 36 million multi-operator radio measurements collected on Great Britain mainline railways across 2G, 4G and 5G as coverage-limited, interference-limited or acceptable, and reproduces every figure and table in the paper. It also produces per-cell railway deficiency maps covering 15,418 cells of approximately 2 km each.</p><p>The raw measurements are not redistributed here. They are published separately by Network Rail on the Rail Data Marketplace and remain subject to its terms.</p>",
+  "creators": [
+    { "name": "Veisi, Farzad", "affiliation": "CEDRIC Lab, CNAM, Paris, France" },
+    { "name": "Choda, David", "affiliation": "Network Rail, London, UK" },
+    { "name": "Secci, Stefano", "affiliation": "CEDRIC Lab, CNAM, Paris, France" }
+  ],
+  "license": "MIT",
+  "access_right": "open",
+  "keywords": [
+    "non-terrestrial networks",
+    "railway communications",
+    "cellular measurements",
+    "coverage",
+    "interference",
+    "5G",
+    "FRMCS"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://raildata.org.uk/dataProduct/P-8e7dbe99-011d-431e-85ad-06efc77217fc/overview",
+      "relation": "isDerivedFrom",
+      "resource_type": "dataset",
+      "scheme": "url"
+    }
+  ]
+}
